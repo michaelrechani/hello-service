@@ -4,7 +4,7 @@ env:
   # In GitHub, go to Settings -> Secrets and set:
   #  AWS_ACCESS_KEY_ID to your own AWS Access Key ID, eg `AKIAIOSFODNN7EXAMPLE`
   #  AWS_SECRET_ACCESS_KEY to your own AWS Secret Access Key, eg `wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY`
-  #
+  # Test
   #
   # To push to ECR Private, fill the following values:
   AWS_ECR_PRIVATE_ACCOUNT_ID: "187940856853" # Your AWS Account ID, eg `123456789012`
