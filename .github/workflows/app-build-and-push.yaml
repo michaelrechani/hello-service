@@ -8,7 +8,7 @@ env:
   #
   # To push to ECR Private, fill the following values:
   AWS_ECR_PRIVATE_ACCOUNT_ID: "187940856853" # Your AWS Account ID, eg `123456789012`
-  AWS_ECR_PRIVATE_REGION: "us-east-1" # Your AWS Region, eg `eu-west-2`
+  AWS_ECR_PRIVATE_REGION: "us-west-1" # Your AWS Region, eg `eu-west-2`
   AWS_ECR_PRIVATE_REPO_NAME: "2w-tf-eks-bp-lab" # Your ECR Repository name, eg `example`
   #
   # To push to ECR Public, change the following values:
